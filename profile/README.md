@@ -1,6 +1,6 @@
-# Moderation of unLinkable Endorsements (MOLE)
+# Moderation of unLinkable Endorsements (MoLE)
 
-MOLE is a standardization project which began within the Anti-Fraud Community
+MoLE is a standardization project which began within the Anti-Fraud Community
 Group at the W3C. The primary use case is to reduce friction for users of the
 web. To this end, we are developing an architecture, an HTTP interface to this
 architecture, cryptographic primitives which instantiate the architecture, and
