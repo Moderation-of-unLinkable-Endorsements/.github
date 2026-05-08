@@ -1,4 +1,4 @@
-# Moderation of unLinkable Enrdorsements (MOLE)
+# Moderation of unLinkable Endorsements (MOLE)
 
 MOLE is a standardization project which began within the Anti-Fraud Community
 Group at the W3C. The primary use case is to reduce friction for users of the
