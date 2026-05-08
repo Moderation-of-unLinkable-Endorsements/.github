@@ -9,10 +9,10 @@ meant to contain IETF and W3C draft specifications related to this project.
 
 ## Drafts
 
-- [architecture-draft](https://github.com/Moderation-of-unLinkable-Endorsements/architecture-draft) — an internet draft for the MoLE architecture.
-- [http-draft](https://github.com/Moderation-of-unLinkable-Endorsements/http-draft) — the HTTP interface to the MoLE architecture.
-- [crypto-drafts](https://github.com/Moderation-of-unLinkable-Endorsements/crypto-drafts) — crypto drafts instantiating the functionality needed to implement the MoLE architecture.
-- [web-draft](https://github.com/Moderation-of-unLinkable-Endorsements/web-draft) — early draft of the web API exposing the MoLE architecture to the web.
+- [architecture-draft](https://github.com/Moderation-of-unLinkable-Endorsements/architecture-draft): an internet draft for the MoLE architecture.
+- [http-draft](https://github.com/Moderation-of-unLinkable-Endorsements/http-draft): the HTTP interface to the MoLE architecture.
+- [crypto-drafts](https://github.com/Moderation-of-unLinkable-Endorsements/crypto-drafts): crypto drafts instantiating the functionality needed to implement the MoLE architecture.
+- [web-draft](https://github.com/Moderation-of-unLinkable-Endorsements/web-draft): early draft of the web API exposing the MoLE architecture to the web.
 
 By participating in this repository and all of the repositories therein,
 you agree to follow the IETF [note well](https://www.ietf.org/about/note-well/)
